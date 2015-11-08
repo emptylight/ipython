@@ -78,3 +78,8 @@ or::
 
 We have some git hooks for helping keep your submodules always in sync,
 see our ``git-hooks`` directory for more info.
+
+
+.. image:: https://badges.gitter.im/Join%20Chat.svg
+   :alt: Join the chat at https://gitter.im/emptylight/ipython
+   :target: https://gitter.im/emptylight/ipython?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
